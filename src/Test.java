@@ -9,6 +9,6 @@ public class Test {
     }
 
     public void imprimir() {
-        System.out.println("Meu nome é " + name + " , e tenhooo " + idade);
+        System.out.println("Meu nome é " + name + " , e tenhoooo " + idade);
     }
 }
